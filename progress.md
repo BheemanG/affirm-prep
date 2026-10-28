@@ -8,11 +8,12 @@
 
 ## Drills
 
-Short Python-fundamentals exercises (not full mocks). Graded on correctness and Python style only.
+Short language-fundamentals exercises (not full mocks). Graded on correctness and language style (Python or C++) only.
 
-| # | Date | Drill | Focus | Time taken | Correctness | Python style | Notes |
-|---|------|-------|-------|------------|-------------|--------------|-------|
-| 01 | 2026-10-27 | bank-account | classes, properties, frozen dataclasses, validation | not started | | | |
+| # | Date | Drill | Language | Focus | Time taken | Correctness | Style | Notes |
+|---|------|-------|----------|-------|------------|-------------|-------|-------|
+| 01 | 2026-10-27 | bank-account | Python | classes, properties, frozen dataclasses, validation | not started | | | |
+| 01 | 2026-10-28 | bank-account-cpp | C++ | classes, const correctness, int64 cents, exceptions, validate-before-mutate | not started | | | |
 
 ## Recurring weaknesses
 

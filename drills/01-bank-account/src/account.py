@@ -3,11 +3,14 @@
 
 # TODO: define Transaction here (frozen dataclass with kind and amount_cents).
 class Transaction:
-    pass
+    def __init__(self, kind, amount_cents):
+
 
 
 class BankAccount:
     def __init__(self, owner, opening_balance_cents=0):
+        self.owner = owner
+        
         raise NotImplementedError
 
     @property

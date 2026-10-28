@@ -1,5 +1,27 @@
+# Interviewer-only material (answers, hidden tests, rubrics). Never commit.
+interviewer/
+
+# Python
 .venv/
+venv/
 __pycache__/
 .pytest_cache/
 *.pyc
-interviewer/
+
+# C++ build output (Makefiles write to build/)
+# Note: don't ignore *.out, since cases/NN.out are expected outputs.
+build/
+*.o
+*.dSYM/
+a.out
+core
+core.*
+vgcore.*
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
