@@ -1,0 +1,6 @@
+id,account,type,amount
+t1,acct-1,CREDIT,100.00
+t2,acct-1,DEBIT,25.50
+t3,acct-2,CREDIT,10
+t4,acct-2,DEBIT,abc
+t5,acct-1,DEBIT,0.05
