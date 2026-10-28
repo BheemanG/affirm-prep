@@ -6,6 +6,14 @@
 |---|------|------|------|------------|-------------|---------|-----------|---------|-------------------|
 | 01 | 2026-10-22 | installment-schedule | Build from spec | in progress | | | | | |
 
+## Drills
+
+Short Python-fundamentals exercises (not full mocks). Graded on correctness and Python style only.
+
+| # | Date | Drill | Focus | Time taken | Correctness | Python style | Notes |
+|---|------|-------|-------|------------|-------------|--------------|-------|
+| 01 | 2026-10-27 | bank-account | classes, properties, frozen dataclasses, validation | not started | | | |
+
 ## Recurring weaknesses
 
 _None recorded yet. Updated after each graded mock._
