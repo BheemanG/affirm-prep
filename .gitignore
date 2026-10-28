@@ -1,6 +1,3 @@
-# Interviewer-only material (answers, hidden tests, rubrics). Never commit.
-interviewer/
-
 # Python
 .venv/
 venv/
